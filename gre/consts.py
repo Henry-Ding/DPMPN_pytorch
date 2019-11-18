@@ -1,0 +1,2 @@
+POS_DI = 0
+NEG_DI = 1
